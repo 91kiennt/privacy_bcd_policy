@@ -4,7 +4,7 @@ Privacy Policy
 Ngày cập nhật: 03/03/2025
 
 Giới thiệu
-Chào mừng bạn đến với BCD (sau đây gọi là "Ứng dụng"), một nền tảng ứng dụng dựa trên công nghệ blockchain được phát triển bởi BCD. Chính sách Bảo mật này giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin của bạn khi bạn sử dụng Ứng dụng. Ứng dụng của chúng tôi tận dụng công nghệ blockchain để cung cấp các dịch vụ như [mô tả ngắn gọn về dịch vụ, ví dụ: giao dịch tiền mã hóa, quản lý NFT, hoặc hợp đồng thông minh], và chúng tôi cam kết bảo vệ quyền riêng tư của bạn theo cách minh bạch và an toàn.
+Chào mừng bạn đến với BCD, một nền tảng ứng dụng dựa trên công nghệ blockchain được phát triển bởi BCD. Chính sách Bảo mật này giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin của bạn khi bạn sử dụng Ứng dụng. Chúng tôi cam kết bảo vệ quyền riêng tư của bạn theo cách minh bạch và an toàn.
 
 Bằng việc sử dụng Ứng dụng, bạn đồng ý với việc thu thập và xử lý thông tin theo chính sách này. Nếu bạn không đồng ý, vui lòng không sử dụng Ứng dụng.
 
@@ -46,7 +46,7 @@ Bạn có quyền:
 
 Yêu cầu truy cập hoặc xóa thông tin cá nhân mà chúng tôi lưu trữ (nếu có), trừ dữ liệu đã ghi trên blockchain.
 Tắt thông báo hoặc từ chối cung cấp thông tin không bắt buộc.
-Để thực hiện các quyền này, vui lòng liên hệ qua email: bcdlabllc@gmail.com.
+Để thực hiện các quyền này, vui lòng liên hệ qua email: blockchainpro.tech9@gmail.com.
 
 Trẻ em
 Ứng dụng không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin từ trẻ em dưới 13 tuổi. Nếu phát hiện trẻ em dưới 13 tuổi cung cấp thông tin, chúng tôi sẽ xóa ngay lập tức.
@@ -57,5 +57,5 @@ Chúng tôi có thể cập nhật Chính sách Bảo mật này theo thời gia
 Liên hệ với chúng tôi
 Nếu bạn có câu hỏi hoặc ý kiến về Chính sách Bảo mật này, vui lòng liên hệ:
 
-Email: bcdlabllc@gmail.com
+Email: blockchainpro.tech9@gmail.com
 Cảm ơn bạn đã tin tưởng và sử dụng BCD!
